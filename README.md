@@ -1,4 +1,4 @@
-# Java_02_tick-tack-toe_advanced
+# Java_Project_02_tick-tack-toe_advanced
 This is an advanced version of tick-tack-toe, in which you can either choose to plax the traditional game, or set the rules yourself..
 
 How about new game rules? The original game has a fairly small choice of options.
